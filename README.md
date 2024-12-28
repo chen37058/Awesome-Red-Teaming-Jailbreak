@@ -1,4 +1,4 @@
-# Awesome-Red-Teaming-Jailbreak
+# Awesome-Red-Teaming
 
 # Table of Contents
 - [Survey](#survey)
